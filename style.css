@@ -1,0 +1,39 @@
+form .vote .btn-group {
+    margin-bottom: 15px;
+    width: 100%;
+}
+form .vote .btn {
+    width: 50%;
+}
+
+label {
+    margin-top: 1em;
+}
+
+form .vote .btn {
+    background-color: #888;
+    border-color: #666;
+}
+form .vote .btn.active.yes {
+    background-color: #5CB85C;
+}
+form .vote .btn.active.no {
+    background-color: #B0504C;
+}
+form .vote .abstain {
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+}
+form .vote .abstain input {
+    margin-right: 1em;
+}
+
+.footer {
+    clear: both;
+    border-top: 1px solid #bbb;
+    margin-top: 3em;
+    padding-top: 2em;
+    color: #888;
+    text-align: center;
+}

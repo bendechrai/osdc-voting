@@ -1,0 +1,10 @@
+[
+    {
+        "email": "someone@example.com",
+        "token": "qwertyuiop"
+    },
+    {
+        "email": "another.person@example.com",
+        "token": "lkjhgfdsa"
+    }
+]
